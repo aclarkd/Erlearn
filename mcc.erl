@@ -1,9 +1,12 @@
 -module(mcc).
--export([start/0, init/0]).
+-export([start/1, init/1]).
 
-start() -> spawn(?MODULE, init, []).
+-include("user.hrl").
 
-init() ->
+start(Username) -> spawn(?MODULE, init, [Username]).
+
+init(Username) ->
+  user:write(Username, self()),
   mcs:subscribe(self()),
   loop().
 

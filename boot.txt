@@ -1,0 +1,27 @@
+ ----- Node 1 -----
+
+name a1 -setcookie a666
+
+mnesia:create_schema([node()]).
+mnesia:start().
+user:init().
+
+rd(user, {name, pid}).
+Usr = #user{name=andrew, pid=1234}.
+user:write(Usr).
+
+Usr1 = #user{name=bob, pid=1235}.
+user:write(Usr1).
+
+ ----- Node 2 ----- 
+ 
+name a2 -setcookie a666
+mnesia:start().
+
+ ----- Node 1 -----
+
+mnesia:change_config(extra_db_nodes, ['a2@haskell']).
+mnesia:add_table_copy(user, a2@haskell, ram_copies).
+
+ets:tab2list(user).
+
