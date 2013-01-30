@@ -1,25 +1,26 @@
 -module(mcs).
--export([start/0, loop/1]).
--export([subscribe/1, unsubscribe/1, broadcast/1]).
+-export([start/0, loop/0]).
+-export([subscribe/2, unsubscribe/1, broadcast/1]).
 -define(SERVER, ?MODULE).
 
-start() -> global:register_name(?SERVER, spawn(?MODULE, loop, [[]])).
+start() -> global:register_name(?SERVER, spawn(?MODULE, loop, [])).
 
-loop(Clients) ->
+loop() ->
   receive 
-    {subscribe, Pid} -> loop([Pid | Clients]);
-    {unsubscribe, Pid} -> loop(lists:delete(Pid, Clients));
+    {subscribe} -> loop();
+    {unsubscribe} -> loop();
     {broadcast, Msg} -> 
-      lists:foreach(fun(Pid) -> Pid ! Msg end, Clients),
-      loop(Clients);
-    _ -> loop(Clients)
+      lists:foreach(fun(Pid) -> Pid ! Msg end, messageClient:get_all()),
+      loop();
+    _ -> loop()
   end.
 
-subscribe(Pid) -> 
-  global:send(?SERVER, {subscribe, Pid}).
+subscribe(Username, Pid) -> 
+  messageClient:write(Username, Pid),
+  global:send(?SERVER, {subscribe}).
 
 unsubscribe(Pid) -> 
-  global:send(?SERVER, {unsubscribe, Pid}).
+  global:send(?SERVER, {unsubscribe}).
 
 broadcast(Msg) ->
   global:send(?SERVER, {broadcast, Msg}).

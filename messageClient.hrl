@@ -1,0 +1,1 @@
+-record(messageClient, {name, pid}).
