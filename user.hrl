@@ -1,1 +1,0 @@
--record(user, {name, pid}).
