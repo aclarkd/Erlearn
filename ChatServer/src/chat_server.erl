@@ -11,13 +11,17 @@ start_link() ->
     gen_server:start_link({global, ?SERVER}, ?MODULE, [], []).
 
 init([]) ->
+    io:format("chat_server started~n", []),
     {ok, []}.
 
 handle_call({broadcast, Msg}, _From, Clients) ->
-    lists:foreach(fun(Pid) -> Pid ! Msg end, chat_user:get_all()),
-    {reply, "Message reply", Clients};
+    ServerPid = global:whereis_name(chat_user),
+    ConnectedPids = gen_server:call(ServerPid, {get_all_pids}),
+    lists:foreach(fun(Pid) -> Pid ! Msg end, ConnectedPids),
+    {reply, ["Message broadcast to:",  ConnectedPids], Clients};
 handle_call({subscribe, Username, Pid}, _From, Clients) ->
-    {reply, chat_user:write(Username, Pid), Clients}.
+    ServerPid = global:whereis_name(chat_user),
+    {reply, gen_server:call(ServerPid, {write, Username, Pid}), Clients}.
 
 handle_cast({unsubscribe, Client = #chat_user{}}, Clients) ->
     {noreply, {[Client, Clients]}}.

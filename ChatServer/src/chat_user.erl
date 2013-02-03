@@ -12,6 +12,7 @@ start_link() ->
     gen_server:start_link({global, ?SERVER}, ?MODULE, [], []).
 
 init([]) ->
+    io:format("chat_user started~n", []),
     {ok, []}.
 
 handle_call({read, Username}, _From, Clients) ->
