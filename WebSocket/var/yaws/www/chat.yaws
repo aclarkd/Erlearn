@@ -1,0 +1,83 @@
+<html>
+<head>
+  <title>Yaws Chat</title>
+  <script type="text/javascript">
+     var WS = false;
+     if (window.WebSocket) WS = WebSocket;
+     if (!WS && window.MozWebSocket) WS = MozWebSocket;
+     if (!WS)
+        alert("WebSocket not supported by this browser");
+
+    function $() { return document.getElementById(arguments[0]); }
+    function $F() { return document.getElementById(arguments[0]).value; }
+
+    var username = '';
+    var client = {
+        connect: function(){
+         username = $F('username');
+         this._ws=new WS("ws://142.232.17.17:8100/chat_endpoint.yaws");
+         this._ws.onopen=this._onopen;
+         this._ws.onmessage=this._onmessage;
+         this._ws.onclose=this._onclose;
+        },
+        _onopen: function(){
+          $('loginPane').className='hidden';
+          $('chatPane').className='';
+          $('phrase').focus();
+          client._send('registeruser');
+          client._send(username + ' has entered chat.');
+       },
+        _send: function(message){
+           if (this._ws)
+            this._ws.send(message);
+        },
+       chat: function(text) {
+          if (text != null && text.length>0 )
+            client._send(username + ' says:' + text);
+        },
+        _onmessage: function(m) {
+          if (m.data){
+            var text = m.data;
+            var messageDiv = document.createElement('div');
+            messageDiv.innerHTML=text;
+            
+            $('msgs').appendChild(messageDiv);
+            $('msgs').scrollTop = $('msgs').scrollHeight;
+          }
+        },
+        _onclose: function(m) {
+          this._ws=null;
+          $('loginPane').className='';
+          $('chatPane').className='hidden';
+          $('msg').innerHTML='';
+        }
+    };
+
+  </script>
+  <style type='text/css'>
+    div.hidden { display: none; }
+  </style>
+
+</head>
+<body>
+  <h1>Yaws Chat</h1>
+  <div id="loginPane">
+     Username:<input id='username' type='text' onkeydown="if (event.keyCode == 13) document.getElementById('loginButton').click()"/>
+     <input id='loginButton' class='button' type='submit' name='connect' value='Login'>
+  </div>
+  <div id="chatPane" class="hidden">
+     <div id="msgs" style="border: 1px solid #C0C0C0;width:300px;height:50px;overflow:auto;"></div>
+     <div>
+         <input id='phrase' type='text' size="35" onkeydown="if (event.keyCode == 13) document.getElementById('messageSendButton').click()"/>
+         <input id='messageSendButton' class='button' type='submit' name='connect' value='Send'/>
+     </div>
+  </div>
+  <script type='text/javascript'>
+    $('loginButton').onclick = function(event) { client.connect(); return false; };
+    $('username').focus();
+    $('messageSendButton').onclick = function(event) { client.chat($F('phrase')); $('phrase').value=''; $('phrase').focus(); return false; };
+ </script>
+  </body>
+</html>
+
+

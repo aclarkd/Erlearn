@@ -1,0 +1,1 @@
+-record(chat_user, {name, pid}).

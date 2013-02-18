@@ -1,0 +1,6 @@
+<erl>
+out(A) ->
+    CallbackMod = chat_client,
+    Opts = [{origin, "http://" ++ (A#arg.headers)#headers.host}],
+    {websocket, CallbackMod, Opts}.
+</erl>

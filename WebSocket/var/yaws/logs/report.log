@@ -1,0 +1,3244 @@
+
+=INFO REPORT==== 10-Feb-2013::10:01:42 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 10-Feb-2013::10:01:42 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 10-Feb-2013::10:01:42 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 10-Feb-2013::10:09:57 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 10-Feb-2013::10:09:57 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 10-Feb-2013::10:09:57 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::16:49:55 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::16:49:55 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::16:49:55 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:23:03 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:23:03 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:23:03 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:27:22 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:27:22 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:27:22 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:28:59 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:28:59 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:28:59 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:41:20 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:41:20 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:41:20 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:44:36 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:44:36 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:44:36 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:57:59 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::17:57:59 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::17:57:59 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 11-Feb-2013::17:58:16 ===
+Error in process <0.81.0> with exit value: {badarg,[{io,format,[<0.8.0>,<0.79.0>,[]],[]},{basic_echo_callback,say_hi,1,[{file,"basic_echo_callback.erl"},{line,38}]}]}
+
+
+=INFO REPORT==== 11-Feb-2013::18:01:47 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 11-Feb-2013::18:01:47 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 11-Feb-2013::18:01:47 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::18:34:17 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::18:34:17 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::18:34:17 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:18:46 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::20:18:46 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:18:46 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 13-Feb-2013::20:18:51 ===
+** Generic server <0.79.0> terminating 
+** Last message in was {tcp,#Port<0.1137>,
+                            <<129,144,112,155,149,24,19,247,252,125,30,239,
+                              184,123,31,245,251,125,19,239,240,124>>}
+** When Server state == {state,
+                         {arg,#Port<0.1137>,
+                          {{70,70,130,150},54676},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "6NJWhaXK0VaFJRJNffSVsg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.72.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1137>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=ERROR REPORT==== 13-Feb-2013::20:18:55 ===
+** Generic server <0.81.0> terminating 
+** Last message in was {tcp,#Port<0.2887>,
+                            <<129,144,27,155,16,14,120,247,121,107,117,239,61,
+                              109,116,245,126,107,120,239,117,106>>}
+** When Server state == {state,
+                         {arg,#Port<0.2887>,
+                          {{70,70,130,150},54677},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "kxJKRgeGn8mWZIe9Je3oAg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.63.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2887>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=ERROR REPORT==== 13-Feb-2013::20:18:56 ===
+** Generic server <0.83.0> terminating 
+** Last message in was {tcp,#Port<0.2888>,
+                            <<129,144,56,212,48,66,91,184,89,39,86,160,29,33,
+                              87,186,94,39,91,160,85,38>>}
+** When Server state == {state,
+                         {arg,#Port<0.2888>,
+                          {{70,70,130,150},54678},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "1dpt4VksVBx0N5Ogbk9Z8Q=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.80.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2888>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=ERROR REPORT==== 13-Feb-2013::20:18:57 ===
+** Generic server <0.85.0> terminating 
+** Last message in was {tcp,#Port<0.2889>,
+                            <<129,144,46,213,187,90,77,185,210,63,64,161,150,
+                              57,65,187,213,63,77,161,222,62>>}
+** When Server state == {state,
+                         {arg,#Port<0.2889>,
+                          {{70,70,130,150},54679},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "GGkBMDuG1oZytEbtQ1hr+w=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.82.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2889>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=ERROR REPORT==== 13-Feb-2013::20:23:28 ===
+** Generic server <0.88.0> terminating 
+** Last message in was {tcp,#Port<0.2896>,
+                            <<129,144,147,132,65,67,240,232,40,38,253,240,108,
+                              32,252,234,47,38,240,240,36,39>>}
+** When Server state == {state,
+                         {arg,#Port<0.2896>,
+                          {{70,70,130,150},54715},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "dS7Qg3OSRotcOg9pMI/Prw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.87.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2896>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=ERROR REPORT==== 13-Feb-2013::20:23:30 ===
+** Generic server <0.90.0> terminating 
+** Last message in was {tcp,#Port<0.2898>,
+                            <<129,144,44,47,53,237,79,67,92,136,66,91,24,142,
+                              67,65,91,136,79,91,80,137>>}
+** When Server state == {state,
+                         {arg,#Port<0.2898>,
+                          {{70,70,130,150},54716},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "uks/6DUY6g0oPHohdfMxTA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.86.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2898>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=INFO REPORT==== 13-Feb-2013::20:24:51 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::20:24:51 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:24:51 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:25:54 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::20:25:54 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:25:54 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 13-Feb-2013::20:25:58 ===
+** Generic server <0.79.0> terminating 
+** Last message in was {tcp,#Port<0.1137>,
+                            <<129,144,232,174,103,106,139,194,14,15,134,218,
+                              74,9,135,192,9,15,139,218,2,14>>}
+** When Server state == {state,
+                         {arg,#Port<0.1137>,
+                          {{70,70,130,150},54732},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "OBHE4y9nDUJCanuKV9mkuA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.72.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1137>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {badarg,[{basic_echo_callback,handle_message,1,
+                                 [{file,"src/basic_echo_callback.erl"},
+                                  {line,33}]},
+            {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+            {yaws_websockets,handle_info,2,
+                             [{file,"yaws_websockets.erl"},{line,138}]},
+            {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,607}]},
+            {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 13-Feb-2013::20:27:12 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::20:27:12 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:27:12 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 13-Feb-2013::20:27:18 ===
+** Generic server <0.78.0> terminating 
+** Last message in was {tcp,#Port<0.1136>,
+                            <<129,144,162,139,30,92,193,231,119,57,204,255,51,
+                              63,205,229,112,57,193,255,123,56>>}
+** When Server state == {state,
+                         {arg,#Port<0.1136>,
+                          {{70,70,130,150},54744},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "TvlYPCPSk4xoe0rq2MK3nQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.71.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1136>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=INFO REPORT==== 13-Feb-2013::20:29:37 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 13-Feb-2013::20:29:37 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 13-Feb-2013::20:29:37 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 13-Feb-2013::20:29:58 ===
+** Generic server <0.79.0> terminating 
+** Last message in was {tcp,#Port<0.1137>,
+                            <<129,144,245,39,95,17,150,75,54,116,155,83,114,
+                              114,154,73,49,116,150,83,58,117>>}
+** When Server state == {state,
+                         {arg,#Port<0.1137>,
+                          {{70,70,130,150},54790},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "oSIGNScz1hzNcIuva/uYgQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.72.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,32789,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1137>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=INFO REPORT==== 14-Feb-2013::22:05:18 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:05:18 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:05:18 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:14:33 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:14:33 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:14:33 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 14-Feb-2013::22:23:22 ===
+** Generic server <0.92.0> terminating 
+** Last message in was {tcp,#Port<0.1163>,
+                            <<129,144,42,122,151,18,73,22,254,119,68,14,186,
+                              113,69,20,249,119,73,14,242,118>>}
+** When Server state == {state,
+                         {arg,#Port<0.1163>,
+                          {{70,70,130,150},64072},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "o9NI7rjcAlpzhgyricxnGg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.85.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1163>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{broadcast,<<"client-connected">>}]}}
+
+=INFO REPORT==== 14-Feb-2013::22:27:41 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:27:41 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:27:41 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:43:36 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:43:36 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:43:36 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:44:01 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:44:01 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:44:01 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:47:20 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:47:20 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:47:20 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:48:21 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::22:48:21 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::22:48:21 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:07:27 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:07:27 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:07:27 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:08:55 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:08:55 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:08:55 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:23:27 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:23:27 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:23:27 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:24:15 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:24:15 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:24:15 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:24:46 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:24:46 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:24:46 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:26:55 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:26:55 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:26:55 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:28:34 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:28:34 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:28:34 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:29:01 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:29:01 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:29:01 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:30:01 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:30:01 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:30:01 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:33:34 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:33:34 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:33:34 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:34:13 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:34:13 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:34:13 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:43:19 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:43:19 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:43:19 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:45:49 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 14-Feb-2013::23:45:49 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 14-Feb-2013::23:45:49 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::10:04:52 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 16-Feb-2013::10:04:52 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::10:04:52 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:20:53 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 16-Feb-2013::11:20:53 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:20:53 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:35:22 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 16-Feb-2013::11:35:22 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:35:22 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:47:17 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 16-Feb-2013::11:47:17 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:47:17 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 16-Feb-2013::11:47:28 ===
+Discarding message {'$gen_cast',{send,{text,<<9 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (2) of this node (3)
+
+
+=ERROR REPORT==== 16-Feb-2013::11:47:28 ===
+Discarding message {'$gen_cast',{send,{text,<<9 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (2) of this node (3)
+
+
+=ERROR REPORT==== 16-Feb-2013::11:47:30 ===
+Discarding message {'$gen_cast',{send,{text,<<9 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (2) of this node (3)
+
+
+=ERROR REPORT==== 16-Feb-2013::11:47:30 ===
+Discarding message {'$gen_cast',{send,{text,<<9 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (2) of this node (3)
+
+
+=INFO REPORT==== 16-Feb-2013::11:48:18 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 16-Feb-2013::11:48:18 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 16-Feb-2013::11:48:18 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 16-Feb-2013::11:48:28 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.91.0> to <0.91.0> in an old incarnation (3) of this node (1)
+
+
+=ERROR REPORT==== 16-Feb-2013::11:48:28 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.91.0> to <0.91.0> in an old incarnation (3) of this node (1)
+
+
+=INFO REPORT==== 17-Feb-2013::10:18:18 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::10:18:18 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::10:18:18 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:16:29 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::11:16:29 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:16:29 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:18:37 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::11:18:37 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:18:37 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::11:27:40 ===
+** Generic server <0.98.0> terminating 
+** Last message in was {tcp,#Port<0.2929>,
+                            <<129,144,109,57,88,45,14,85,49,72,3,77,117,78,2,
+                              87,54,72,14,77,61,73>>}
+** When Server state == {state,
+                         {arg,#Port<0.2929>,
+                          {{70,70,130,150},56404},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "0IqLD5qECIR4k/TflM5/jQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.97.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2929>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:28:35 ===
+** Generic server <0.101.0> terminating 
+** Last message in was {tcp,#Port<0.2937>,
+                            <<129,144,217,95,195,203,186,51,170,174,183,43,
+                              238,168,182,49,173,174,186,43,166,175>>}
+** When Server state == {state,
+                         {arg,#Port<0.2937>,
+                          {{70,70,130,150},56414},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "vWnix74UJ313AJp9nYK/yg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.100.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2937>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:29:53 ===
+** Generic server <0.104.0> terminating 
+** Last message in was {tcp,#Port<0.2945>,
+                            <<129,144,149,21,193,52,246,121,168,81,251,97,236,
+                              87,250,123,175,81,246,97,164,80>>}
+** When Server state == {state,
+                         {arg,#Port<0.2945>,
+                          {{70,70,130,150},56426},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "ZWckLljSDEhvyMjEBkSCUw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.103.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2945>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:29:54 ===
+** Generic server <0.106.0> terminating 
+** Last message in was {tcp,#Port<0.2947>,
+                            <<129,144,44,143,149,24,79,227,252,125,66,251,184,
+                              123,67,225,251,125,79,251,240,124>>}
+** When Server state == {state,
+                         {arg,#Port<0.2947>,
+                          {{70,70,130,150},56427},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "1ATBc/RAIrPaHS7r6UcAdQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.102.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2947>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:29:55 ===
+** Generic server <0.108.0> terminating 
+** Last message in was {tcp,#Port<0.2949>,
+                            <<129,144,162,77,60,98,193,33,85,7,204,57,17,1,
+                              205,35,82,7,193,57,89,6>>}
+** When Server state == {state,
+                         {arg,#Port<0.2949>,
+                          {{70,70,130,150},56428},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "vPE07VJDQM9Me5lVdEpsJg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.105.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2949>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:30:16 ===
+** Generic server <0.111.0> terminating 
+** Last message in was {tcp,#Port<0.2954>,
+                            <<129,144,8,145,156,126,107,253,245,27,102,229,
+                              177,29,103,255,242,27,107,229,249,26>>}
+** When Server state == {state,
+                         {arg,#Port<0.2954>,
+                          {{70,70,130,150},56436},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "nTtRRV8Qoikx+vjLJd7I8Q=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.110.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2954>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:30:19 ===
+** Generic server <0.113.0> terminating 
+** Last message in was {tcp,#Port<0.2956>,
+                            <<129,144,221,2,12,253,190,110,101,152,179,118,33,
+                              158,178,108,98,152,190,118,105,153>>}
+** When Server state == {state,
+                         {arg,#Port<0.2956>,
+                          {{70,70,130,150},56437},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "vy0fqQqeN6uc2zWhGG4QsA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.107.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2956>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:30:22 ===
+** Generic server <0.115.0> terminating 
+** Last message in was {tcp,#Port<0.2963>,
+                            <<129,144,91,174,200,153,56,194,161,252,53,218,
+                              229,250,52,192,166,252,56,218,173,253>>}
+** When Server state == {state,
+                         {arg,#Port<0.2963>,
+                          {{70,70,130,150},56439},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "MYZUBFD+oaz5ASH9luSZdQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.114.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2963>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:30:25 ===
+** Generic server <0.117.0> terminating 
+** Last message in was {tcp,#Port<0.2965>,
+                            <<129,144,146,151,230,253,241,251,143,152,252,227,
+                              203,158,253,249,136,152,241,227,131,153>>}
+** When Server state == {state,
+                         {arg,#Port<0.2965>,
+                          {{70,70,130,150},56440},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "nN3bYduQRcCp6LJ+JSyXyQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.109.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2965>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=ERROR REPORT==== 17-Feb-2013::11:30:35 ===
+** Generic server <0.119.0> terminating 
+** Last message in was {tcp,#Port<0.2969>,
+                            <<129,144,124,228,136,172,31,136,225,201,18,144,
+                              165,207,19,138,230,201,31,144,237,200>>}
+** When Server state == {state,
+                         {arg,#Port<0.2969>,
+                          {{70,70,130,150},56443},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "f8mPx2BZ/3S7Op7Ah+SN2g=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.118.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2969>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=INFO REPORT==== 17-Feb-2013::11:34:24 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::11:34:24 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:34:24 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::11:34:28 ===
+** Generic server <0.85.0> terminating 
+** Last message in was {tcp,#Port<0.1142>,
+                            <<129,144,247,62,228,154,148,82,141,255,153,74,
+                              201,249,152,80,138,255,148,74,129,254>>}
+** When Server state == {state,
+                         {arg,#Port<0.1142>,
+                          {{70,70,130,150},56477},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "AS9d4yrBZQkcQO9J9nFJNQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.78.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1142>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=INFO REPORT==== 17-Feb-2013::11:36:54 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::11:36:54 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::11:36:54 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::11:36:59 ===
+** Generic server <0.85.0> terminating 
+** Last message in was {tcp,#Port<0.1142>,
+                            <<129,144,76,116,93,249,47,24,52,156,34,0,112,154,
+                              35,26,51,156,47,0,56,157>>}
+** When Server state == {state,
+                         {arg,#Port<0.1142>,
+                          {{70,70,130,150},56499},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "WGouAQfBtdDCg1UkdcOs5w=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/websockets_example_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/websockets_example_endpoint.yaws",
+                          undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/websockets_example_endpoint.yaws",
+                          undefined,undefined,<0.78.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         basic_echo_callback,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1142>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,[undefined,{get_all_pids}]}}
+
+=INFO REPORT==== 17-Feb-2013::12:18:34 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::12:18:34 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::12:18:34 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::12:56:22 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::12:56:22 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::12:56:22 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:00:48 ===
+** Generic server <0.91.0> terminating 
+** Last message in was {tcp,#Port<0.1168>,
+                            <<129,144,96,187,96,229,1,213,4,151,5,204,64,134,
+                              15,213,14,128,3,207,5,129>>}
+** When Server state == {state,
+                         {arg,#Port<0.1168>,
+                          {{70,70,130,150},57500},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "FzncHHAh0OLnqFHjgfMNiA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.84.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1168>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,
+                       [<0.91.0>,{text,<<"andrew connected">>}],
+                       []},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,[<8476.79.0>,{yaws_broadcast,<<"andrew connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:04:07 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:04:07 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:04:07 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:04:31 ===
+** Generic server <0.91.0> terminating 
+** Last message in was {tcp,#Port<0.1170>,
+                            <<129,144,254,188,67,52,159,210,39,70,155,203,99,
+                              87,145,210,45,81,157,200,38,80>>}
+** When Server state == {state,
+                         {arg,#Port<0.1170>,
+                          {{70,70,130,150},57543},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "xpAxHZCDIEep7iTE71ZoEg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.84.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1170>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {'function not exported',
+       [{chat_client,handle_message,[{text,<<"andrew connected">>}],[]},
+        {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+        {yaws_websockets,handle_info,2,
+            [{file,"yaws_websockets.erl"},{line,138}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,607}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 17-Feb-2013::13:06:08 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:06:08 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:06:08 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:06:27 ===
+** Generic server <0.91.0> terminating 
+** Last message in was {tcp,#Port<0.1170>,
+                            <<129,144,0,169,229,104,97,199,129,26,101,222,197,
+                              11,111,199,139,13,99,221,128,12>>}
+** When Server state == {state,
+                         {arg,#Port<0.1170>,
+                          {{70,70,130,150},57564},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "uxf4YBiIpfY1aP9SSHQKqw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.84.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1170>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [undefined,{yaws_broadcast,<<"andrew connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:07:52 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:07:52 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:07:52 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:08:24 ===
+** Generic server <0.94.0> terminating 
+** Last message in was {tcp,#Port<0.1177>,
+                            <<129,142,254,112,238,130,138,21,157,246,222,19,
+                              129,236,144,21,141,246,155,20>>}
+** When Server state == {state,
+                         {arg,#Port<0.1177>,
+                          {{70,70,130,150},57580},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "RuO7c4mFvjsMgVzksfpsew=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.87.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1177>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [undefined,{yaws_broadcast,<<"test connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:09:05 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:09:05 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:09:05 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:09:55 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:09:55 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:09:55 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:11:03 ===
+** Generic server <0.92.0> terminating 
+** Last message in was {tcp,#Port<0.1170>,
+                            <<129,144,120,17,12,60,25,127,104,78,29,102,44,95,
+                              23,127,98,89,27,101,105,88>>}
+** When Server state == {state,
+                         {arg,#Port<0.1170>,
+                          {{70,70,130,150},57602},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "JLQFu71/kXY/FOwsWF8LtA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.85.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1170>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,
+                       [<0.91.0>,{text,<<"andrew connected">>}],
+                       []},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,[<8590.82.0>,{yaws_broadcast,<<"andrew connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:17:30 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:17:30 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:17:30 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:19:32 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:19:32 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:19:32 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:19:40 ===
+** Generic server <0.85.0> terminating 
+** Last message in was {tcp,#Port<0.1142>,
+                            <<129,144,172,247,247,49,205,153,147,67,201,128,
+                              215,82,195,153,153,84,207,131,146,85>>}
+** When Server state == {state,
+                         {arg,#Port<0.1142>,
+                          {{70,70,130,150},57678},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "T7s6B/bRqZppcV9/v4lOVg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.78.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1142>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {noproc,{gen_server,call,
+                       [undefined,{yaws_broadcast,<<"andrew connected">>}]}}
+
+=ERROR REPORT==== 17-Feb-2013::13:20:54 ===
+** Generic server <0.93.0> terminating 
+** Last message in was {tcp,#Port<0.2917>,
+                            <<129,132,151,200,12,75,227,173,127,63>>}
+** When Server state == {state,
+                         {arg,#Port<0.2917>,
+                          {{70,70,130,150},57681},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "AgceVvcltSlIdhKcytTWxA=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.92.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2917>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,[<0.93.0>,{text,<<"test">>}],[]},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,[<11191.82.0>,{yaws_broadcast,<<"test">>}]}}
+
+=ERROR REPORT==== 17-Feb-2013::13:30:21 ===
+** Generic server <0.96.0> terminating 
+** Last message in was {tcp,#Port<0.2922>,
+                            <<129,144,181,158,89,173,212,240,61,223,208,233,
+                              121,206,218,240,55,200,214,234,60,201>>}
+** When Server state == {state,
+                         {arg,#Port<0.2922>,
+                          {{70,70,130,150},57780},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "Ulg9t/F3rN911cGDx5TYZQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.95.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2922>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,
+                       [<0.93.0>,{text,<<"andrew connected">>}],
+                       []},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,[<11191.92.0>,{yaws_broadcast,<<"andrew connected">>}]}}
+
+=ERROR REPORT==== 17-Feb-2013::13:30:34 ===
+** Generic server <0.97.0> terminating 
+** Last message in was {tcp,#Port<0.2924>,
+                            <<129,147,36,128,136,190,87,245,234,205,71,242,
+                              225,220,65,160,235,209,74,238,237,221,80,229,236>>}
+** When Server state == {state,
+                         {arg,#Port<0.2924>,
+                          {{70,70,130,150},57782},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "EBlWJ1UfglDnSmvfxZtW7A=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.69.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2924>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,
+                       [<0.93.0>,{text,<<"subscribe connected">>}],
+                       []},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,
+        [<11191.103.0>,{yaws_broadcast,<<"subscribe connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:31:08 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:31:08 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:31:08 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:31:51 ===
+** Generic server <0.91.0> terminating 
+** Last message in was {tcp,#Port<0.1170>,
+                            <<129,147,71,216,165,245,52,173,199,134,36,170,
+                              204,151,34,248,198,154,41,182,192,150,51,189,193>>}
+** When Server state == {state,
+                         {arg,#Port<0.1170>,
+                          {{70,70,130,150},57799},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "4M0Gdr6MzAJIBveC7xx7og=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.69.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1170>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {{function_clause,
+        [{chat_server,terminate,
+             [{undef,
+                  [{yaws_api,websocket_send,
+                       [<0.93.0>,{text,<<"subscribe connected">>}],
+                       []},
+                   {lists,foreach,2,[{file,"lists.erl"},{line,1262}]},
+                   {chat_server,handle_call,3,
+                       [{file,"src/chat_server.erl"},{line,26}]},
+                   {gen_server,handle_msg,5,
+                       [{file,"gen_server.erl"},{line,588}]},
+                   {proc_lib,init_p_do_apply,3,
+                       [{file,"proc_lib.erl"},{line,227}]}]},
+              []],
+             [{file,"src/chat_server.erl"},{line,43}]},
+         {gen_server,terminate,6,[{file,"gen_server.erl"},{line,722}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,
+        [<8476.81.0>,{yaws_broadcast,<<"subscribe connected">>}]}}
+
+=INFO REPORT==== 17-Feb-2013::13:43:27 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:43:27 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:43:27 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:43:52 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=INFO REPORT==== 17-Feb-2013::13:45:23 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::13:45:23 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::13:45:23 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::13:46:50 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.91.0> to <0.91.0> in an old incarnation (2) of this node (3)
+
+
+=INFO REPORT==== 17-Feb-2013::14:09:47 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::14:09:47 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::14:09:47 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::14:10:12 ===
+Discarding message {'$gen_cast',{send,{text,<<15 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (3) of this node (1)
+
+
+=INFO REPORT==== 17-Feb-2013::14:12:40 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::14:12:40 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::14:12:40 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::14:13:22 ===
+** Generic server <0.91.0> terminating 
+** Last message in was {tcp,#Port<0.1170>,
+                            <<129,143,62,198,10,97,101,169,104,11,91,165,126,
+                              65,113,164,96,4,93,178,87>>}
+** When Server state == {state,
+                         {arg,#Port<0.1170>,
+                          {{70,70,130,150},58444},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "GEKMTyKBysEilDU5dnU3Hw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.83.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.1170>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {function_clause,[{proplists,get_value,
+                                ["action",<<"[object Object]">>,undefined],
+                                [{file,"proplists.erl"},{line,222}]},
+                     {chat_client,handle_message,1,
+                                  [{file,"src/chat_client.erl"},{line,11}]},
+                     {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+                     {yaws_websockets,handle_info,2,
+                                      [{file,"yaws_websockets.erl"},
+                                       {line,138}]},
+                     {gen_server,handle_msg,5,
+                                 [{file,"gen_server.erl"},{line,607}]},
+                     {proc_lib,init_p_do_apply,3,
+                               [{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 17-Feb-2013::14:17:34 ===
+** Generic server <0.94.0> terminating 
+** Last message in was {tcp,#Port<0.2934>,<<129,128,162,219,61,108>>}
+** When Server state == {state,
+                         {arg,#Port<0.2934>,
+                          {{70,70,130,150},58509},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "mDYjyyL8DgZ0mab/ke8dgw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.92.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2934>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {function_clause,[{proplists,get_value,
+                                ["action",<<>>,undefined],
+                                [{file,"proplists.erl"},{line,222}]},
+                     {chat_client,handle_message,1,
+                                  [{file,"src/chat_client.erl"},{line,11}]},
+                     {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+                     {yaws_websockets,handle_info,2,
+                                      [{file,"yaws_websockets.erl"},
+                                       {line,138}]},
+                     {gen_server,handle_msg,5,
+                                 [{file,"gen_server.erl"},{line,607}]},
+                     {proc_lib,init_p_do_apply,3,
+                               [{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 17-Feb-2013::14:17:49 ===
+** Generic server <0.95.0> terminating 
+** Last message in was {tcp,#Port<0.2936>,<<129,128,16,170,43,238>>}
+** When Server state == {state,
+                         {arg,#Port<0.2936>,
+                          {{70,70,130,150},58514},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "9cbYNjiyritE3slQhy+Rzw=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.93.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2936>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {function_clause,[{proplists,get_value,
+                                ["action",<<>>,undefined],
+                                [{file,"proplists.erl"},{line,222}]},
+                     {chat_client,handle_message,1,
+                                  [{file,"src/chat_client.erl"},{line,11}]},
+                     {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+                     {yaws_websockets,handle_info,2,
+                                      [{file,"yaws_websockets.erl"},
+                                       {line,138}]},
+                     {gen_server,handle_msg,5,
+                                 [{file,"gen_server.erl"},{line,607}]},
+                     {proc_lib,init_p_do_apply,3,
+                               [{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 17-Feb-2013::14:17:52 ===
+** Generic server <0.97.0> terminating 
+** Last message in was {tcp,#Port<0.2938>,<<129,128,123,166,53,232>>}
+** When Server state == {state,
+                         {arg,#Port<0.2938>,
+                          {{70,70,130,150},58515},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "8K1QeTZSedJPg/Rk4gintQ=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.69.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2938>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {function_clause,[{proplists,get_value,
+                                ["action",<<>>,undefined],
+                                [{file,"proplists.erl"},{line,222}]},
+                     {chat_client,handle_message,1,
+                                  [{file,"src/chat_client.erl"},{line,11}]},
+                     {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+                     {yaws_websockets,handle_info,2,
+                                      [{file,"yaws_websockets.erl"},
+                                       {line,138}]},
+                     {gen_server,handle_msg,5,
+                                 [{file,"gen_server.erl"},{line,607}]},
+                     {proc_lib,init_p_do_apply,3,
+                               [{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 17-Feb-2013::14:18:01 ===
+** Generic server <0.99.0> terminating 
+** Last message in was {tcp,#Port<0.2940>,<<129,128,146,35,49,144>>}
+** When Server state == {state,
+                         {arg,#Port<0.2940>,
+                          {{70,70,130,150},58519},
+                          {headers,"Upgrade",undefined,"142.232.17.17:8100",
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,undefined,[],
+                           undefined,undefined,undefined,undefined,undefined,
+                           undefined,undefined,undefined,
+                           [{http_header,0,"Sec-WebSocket-Extensions",
+                             undefined,"x-webkit-deflate-frame"},
+                            {http_header,0,"Sec-WebSocket-Version",undefined,
+                             "13"},
+                            {http_header,0,"Sec-Websocket-Key",undefined,
+                             "EaCax8VzYZIqNphR1nFyBg=="},
+                            {http_header,1,'Cache-Control',undefined,
+                             "no-cache"},
+                            {http_header,4,'Pragma',undefined,"no-cache"},
+                            {http_header,0,"Origin",undefined,
+                             "http://142.232.17.17:8100"},
+                            {http_header,6,'Upgrade',undefined,"websocket"}]},
+                          {http_request,'GET',
+                           {abs_path,"/chat_endpoint.yaws"},
+                           {1,1}},
+                          undefined,"/chat_endpoint.yaws",undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www","/",
+                          "/home/c8061/2013/aclark/var/yaws/www/chat_endpoint.yaws",
+                          undefined,undefined,<0.96.0>,[],undefined,"/",
+                          undefined},
+                         {sconf,8100,7,[],undefined,undefined,
+                          "/home/c8061/2013/aclark/var/yaws/www",[],
+                          {0,0,0,0},
+                          "haskell:8100",undefined,36887,undefined,
+                          [{"/home/c8061/2013/aclark/var/yaws/www",[]}],
+                          10240,
+                          [{"cgi-bin",yaws_appmod_cgi}],
+                          [],yaws_outmod,yaws_outmod,yaws_outmod,yaws,
+                          yaws_log,[],undefined,
+                          [yaws,php,cgi,fcgi],
+                          [],
+                          ["index.yaws","index.html","index.php"],
+                          [],[],[],undefined,undefined,
+                          {cgi,"/usr/bin/php-cgi"},
+                          undefined,undefined,undefined,undefined},
+                         chat_client,
+                         [{callback,basic},
+                          {origin,"http://142.232.17.17:8100"}],
+                         {ws_state,8,#Port<0.2940>,none},
+                         {none,<<>>},
+                         basic}
+** Reason for termination == 
+** {function_clause,[{proplists,get_value,
+                                ["action",<<>>,undefined],
+                                [{file,"proplists.erl"},{line,222}]},
+                     {chat_client,handle_message,1,
+                                  [{file,"src/chat_client.erl"},{line,11}]},
+                     {lists,map,2,[{file,"lists.erl"},{line,1173}]},
+                     {yaws_websockets,handle_info,2,
+                                      [{file,"yaws_websockets.erl"},
+                                       {line,138}]},
+                     {gen_server,handle_msg,5,
+                                 [{file,"gen_server.erl"},{line,607}]},
+                     {proc_lib,init_p_do_apply,3,
+                               [{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 17-Feb-2013::14:25:48 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::14:25:48 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::14:25:48 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:27:27 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::15:27:27 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:27:27 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:33:41 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::15:33:41 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:33:41 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=ERROR REPORT==== 17-Feb-2013::15:34:15 ===
+Discarding message {'$gen_cast',{send,{text,<<18 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:34:19 ===
+Discarding message {'$gen_cast',{send,{text,<<11 bytes>>}}} from <0.91.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:35:35 ===
+Discarding message {'$gen_cast',{send,{text,<<24 bytes>>}}} from <0.94.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:35:38 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.94.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:35:48 ===
+Discarding message {'$gen_cast',{send,{text,<<24 bytes>>}}} from <0.96.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:36:00 ===
+Discarding message {'$gen_cast',{send,{text,<<21 bytes>>}}} from <0.94.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:36:11 ===
+Discarding message {'$gen_cast',{send,{text,<<31 bytes>>}}} from <0.94.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:36:13 ===
+Discarding message {'$gen_cast',{send,{text,<<15 bytes>>}}} from <0.94.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:36:14 ===
+Discarding message {'$gen_cast',{send,{text,<<17 bytes>>}}} from <0.96.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:40 ===
+Discarding message {'$gen_cast',{send,{text,<<24 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:43 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:44 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:45 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:47 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:48 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:49 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:50 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:51 ===
+Discarding message {'$gen_cast',{send,{text,<<14 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:52 ===
+Discarding message {'$gen_cast',{send,{text,<<16 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:39:56 ===
+Discarding message {'$gen_cast',{send,{text,<<20 bytes>>}}} from <0.99.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:49:24 ===
+Discarding message {'$gen_cast',{send,{text,<<22 bytes>>}}} from <0.108.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=ERROR REPORT==== 17-Feb-2013::15:49:32 ===
+Discarding message {'$gen_cast',{send,{text,<<21 bytes>>}}} from <0.110.0> to <0.93.0> in an old incarnation (3) of this node (2)
+
+
+=INFO REPORT==== 17-Feb-2013::15:53:25 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::15:53:25 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:53:25 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:57:16 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::15:57:16 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::15:57:16 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:00:28 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::16:00:28 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:00:28 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:02:51 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::16:02:51 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:02:51 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:05:56 ===
+Ctlfile : /home/c8061/2013/aclark/.yaws/yaws/default/CTL
+
+=INFO REPORT==== 17-Feb-2013::16:05:56 ===
+Yaws: Listening to 0.0.0.0:8100 for <2> virtual servers:
+ - http://haskell:8100 under /home/c8061/2013/aclark/var/yaws/www
+ - http://localhost:8100 under /tmp
+
+=INFO REPORT==== 17-Feb-2013::16:05:56 ===
+Yaws: Listening to 0.0.0.0:4143 for <1> virtual servers:
+ - https://haskell:4143 under /tmp
