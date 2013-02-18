@@ -28,9 +28,13 @@ handle_call({yaws_broadcast, Msg}, _From, Clients) ->
 
 handle_call({subscribe, Username, Pid}, _From, Clients) ->
     ServerPid = global:whereis_name(chat_user),
-    {reply, gen_server:call(ServerPid, {write, Username, Pid}), Clients}.
+    {reply, gen_server:call(ServerPid, {write, Username, Pid}), Clients};
 
-handle_cast({unsubscribe, Client = #chat_user{}}, Clients) ->
+handle_call({unsubscribe, Username}, _From, Clients) ->
+    ServerPid = global:whereis_name(chat_user),
+    {reply, gen_server:call(ServerPid, {delete, Username}), Clients}.
+
+handle_cast({chat_user, Client = #chat_user{}}, Clients) ->
     {noreply, {[Client, Clients]}}.
 
 handle_info(Msg, Clients) ->

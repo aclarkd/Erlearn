@@ -29,6 +29,11 @@ handle_call({write, Username, Pid}, _From, Clients) ->
             #chat_user{name=Username, pid=Pid} )
     end,
     {reply, mnesia:transaction(Fun), Clients};
+handle_call({delete, Username}, _From, Clients) ->
+    Fun = fun() ->
+        mnesia:delete({chat_user, Username})
+    end,
+    {reply, mnesia:transaction(Fun), Clients};
 handle_call({get_all_pids}, _From, Clients) ->
     Fun = fun() ->
         Q = qlc:q([C#chat_user.pid || C <- mnesia:table(chat_user)]),

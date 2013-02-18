@@ -20,6 +20,9 @@
          this._ws.onmessage=this._onmessage;
          this._ws.onclose=this._onclose;
         },
+        disconnect: function(){
+	 client._send('unregisteruser');  
+        },
         _onopen: function(){
           $('loginPane').className='hidden';
           $('chatPane').className='';
@@ -33,7 +36,7 @@
         },
        chat: function(text) {
           if (text != null && text.length>0 )
-            client._send(username + ' says:' + text);
+            client._send(username + ' says : ' + text);
         },
         _onmessage: function(m) {
           if (m.data){
@@ -49,7 +52,7 @@
           this._ws=null;
           $('loginPane').className='';
           $('chatPane').className='hidden';
-          $('msg').innerHTML='';
+          $('msgs').innerHTML='';
         }
     };
 
@@ -68,12 +71,14 @@
   <div id="chatPane" class="hidden">
      <div id="msgs" style="border: 1px solid #C0C0C0;width:300px;height:50px;overflow:auto;"></div>
      <div>
-         <input id='phrase' type='text' size="35" onkeydown="if (event.keyCode == 13) document.getElementById('messageSendButton').click()"/>
+         <input id='phrase' type='text' size="25" onkeydown="if (event.keyCode == 13) document.getElementById('messageSendButton').click()"/>
          <input id='messageSendButton' class='button' type='submit' name='connect' value='Send'/>
+         <input id='logoutButton' class='button' type='submit' name='logout' value='Logout'/>
      </div>
   </div>
   <script type='text/javascript'>
     $('loginButton').onclick = function(event) { client.connect(); return false; };
+    $('logoutButton').onclick = function(event) { client.disconnect(); return false; };
     $('username').focus();
     $('messageSendButton').onclick = function(event) { client.chat($F('phrase')); $('phrase').value=''; $('phrase').focus(); return false; };
  </script>
